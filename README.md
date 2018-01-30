@@ -1,1 +1,2 @@
 # Zynq-UltraScale-MPSoC-ZCU102-AXI-DMA-Drivers-Linux-Simple-Mode
+This repo contains the Linux drivers needed to run the AXI DMA implemented on programmable logic (PL) of Zynq-UltraScale+ MPSoC (ZCU102) device. The drivers are written for Simple Mode operation.Both Kernel module and userspace applicatication built for system. The kenel module maps the OCM-RAM for DMA buffer. DDR memory could be reseverd for the same. 
